@@ -32,7 +32,16 @@ It combines **predictive modelling, explainable AI (SHAP), and Large Language Mo
 * Modular and reproducible pipeline
 
 ---
+## Dataset
 
+The dataset used in this project is the UK Road Safety Dataset (STATS19).
+
+Due to size constraints, the dataset is not included in this repository.
+
+You can download it from:
+https://data.gov.uk/dataset/road-accidents-safety-data
+
+---
 ## Tech Stack
 
 **Languages & Frameworks**
